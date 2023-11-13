@@ -30,10 +30,10 @@ Bu yazılımın temel bileşenleri ve teknolojik altyapısı aşağıda açıkla
 
 
 **Transfer Öğrenme (Transfer Learning)**
-Bası yarası tespiti için, transfer öğrenme kullanılır. Transfer öğrenme, önceden eğitilmiş bir modelin ağırlıklarının yeni bir görev için özelleştirilmesini içerir. İşte bu sürecin detayları:
-	**Önceden Eğitilmiş Model:** Transfer öğrenme işlemi, birçok nesne tespiti görevini başarıyla gerçekleştiren bir YoloV4 modelini içerir. Model eğitiminde farklı evrelerde bası yarası fotoğraflarını içeren 500 adet görsel data augmentation yöntemi ile çoğaltılarak elde edilen  2000 adet bası yarası fotoğrafı ile eğitilmiştir. Bu model, genel nesne tespiti yetenekleri kazanmıştır.
-	**İkincil Görev (Bası Yara Tespiti):** İkincil görev, yazılımın ana amacı olan bası yarası tespitini içerir. YoloV4 modeli, bu ikincil görev için özelleştirilir. Modelin ağırlıkları, bası yara tespiti görevi için yeniden eğitilir.
-	**Veri Toplama ve Etiketleme:** Yara tespiti için uygun eğitim verileri web ortamında deneyimli bir yoğun bakım hemşiresi tarafından toplandı ve evrelerine göre etiketlendi makesense.ai  web adresinde .xml formatında export edildi.
+Bası yarası tespiti için, transfer öğrenme kullanılır. Transfer öğrenme, önceden eğitilmiş bir modelin ağırlıklarının yeni bir görev için özelleştirilmesini içerir. İşte bu sürecin detayları:<br>
+	**Önceden Eğitilmiş Model:** Transfer öğrenme işlemi, birçok nesne tespiti görevini başarıyla gerçekleştiren bir YoloV4 modelini içerir. Model eğitiminde farklı evrelerde bası yarası fotoğraflarını içeren 500 adet görsel data augmentation yöntemi ile çoğaltılarak elde edilen  2000 adet bası yarası fotoğrafı ile eğitilmiştir. Bu model, genel nesne tespiti yetenekleri kazanmıştır.<br>
+	**İkincil Görev (Bası Yara Tespiti):** İkincil görev, yazılımın ana amacı olan bası yarası tespitini içerir. YoloV4 modeli, bu ikincil görev için özelleştirilir. Modelin ağırlıkları, bası yara tespiti görevi için yeniden eğitilir.<br>
+	**Veri Toplama ve Etiketleme:** Yara tespiti için uygun eğitim verileri web ortamında deneyimli bir yoğun bakım hemşiresi tarafından toplandı ve evrelerine göre etiketlendi makesense.ai  web adresinde .xml formatında export edildi.<br>
 	**Eğitim ve Ayarlar:** Özelleştirilmiş model, toplanan ve etiketlenen bası yara görüntüleri üzerinde, Colaboratory’de eğitildi. Colaboratory, Google tarafından geliştirilen bir bulut tabanlı araçtır. Colab, Python programlama dilini kullanarak interaktif ortamda veri analizi, makine öğrenimi ve araştırma projeleri yapmayı sağlar. Bu süreç, modelin yara tespit görevini öğrenmesini sağlar.
 	**Tespit:** Eğitilen model, yeni görüntülerde bası yaralarını tespit etmek için kullanılır. Model, tespit edilen yaraların evrelerini belirler ve tedavi önerilerini sunar.
 
