@@ -56,6 +56,12 @@ Yazılımın çalışma süreci aşağıdaki adımlardan oluşur:
 
 **Uygulama görselleri;**
 
+**Ana Ekran**
+![Açıklama](MainWindow.png)
+
+**Kayıt Ekranı**
+
+![Açıklama](PatienAddPicture.png)
 
 
 
