@@ -12,9 +12,12 @@ E-posta: [ahmetzincir.tech@icloud.com](mailto:ahmetzincir.tech@icloud.com)
 **Bası Ülserleri Evreleri**
 
 **Evre I:** Koyu renk tenli kişilerde tanımlanması zor olan, basmakla kızarıklığı solmayan, bütünlüğü bozulmamış cilt. His, ısı ya da sertlik görsel değişikliklerden önce 		    hissedilebilir. Derin doku yaralanmasına işaret eden kahverengi ya da mor renk değişiklikleri oluşmayabilir.( Şekil 1.1)   
+
 **Evre II:** Yara yatağı kırmızı ya da pembe renkte, canlı, nemli ve su dolu kabarcık olarak görünür. Granülasyon dokusu, kabuk ya da skar yoktur. Bu yaralanma daha çok pelvis üstü ya da topuktaki sürtünme ya da havasızlıktan kaynaklanır .( Şekil 1.2)   
+
 **Evre III:** 
 Tam Kalınlıkta Deri Kaybı: Cilt al3 yağ dokusu görülebildiği ülser ya da granülasyon dokunun bulunduğu deri kaybıdır. Kabuk ya da skar görülebilir. Doku hasarının derinliği anatomik bölgeye göre değişebilir; geniş hacimli yağ bölgelerinde derin doku hasarı görülebilir. Fasya, kas, tendon, ligament, kıkırdak ya da kemik açıkta değildir.( Şekil 1.3)   
+
 **Evre IV:** 
 Tam Deri ve Doku Kaybı: Kemik, tendon ve kas dokusunun da etkilendiği tam bir doku kaybı mevcuttur. Derinliği ülserin geliş1ği anatomik bölgeye göre değişiklik gösterir. Genellikle cep ve tüneller içerir. ( Şekil 1.4)  
 
