@@ -54,10 +54,10 @@ Yazılımın çalışma süreci aşağıdaki adımlardan oluşur:
 	Bası Yarası Tespit ve Tedavi Yardımcı Yazılımı, bası yaralarının erken teşhisini ve etkili tedaviyi teşvik etme misyonunu başarıyla yerine getirir. Transfer öğrenme, yazılımın başarısını artıran kritik bir bileşen olarak değerlendirilebilir. Bu yazılım, sağlık profesyonellerine ve hastalara önemli bir yardım sağlayarak bası yaralarının etkilerini azaltmaya yardımcı olur.  
 
 
-**Uygulama görselleri;**
-**Ana Ekran**
+**Uygulama görselleri;**  
+**Ana Ekran:**
 ![Açıklama](MainWindow.png)
-**Kayıt Ekranı**
+**Kayıt Ekranı:**
 ![Açıklama](PatienAddPicture.png)
 
 
