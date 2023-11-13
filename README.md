@@ -22,7 +22,7 @@ Bası Yarası Tespit ve Tedavi Asistanı Bilgisayar Uygulaması
 
 
 **Yazılımın Teknolojik Altyapısı**
-Bu yazılımın temel bileşenleri ve teknolojik altyapısı aşağıda açıklanmıştır:
+Bu yazılımın temel bileşenleri ve teknolojik altyapısı aşağıda açıklanmıştır:<br>
 	**YoloV4:** Yazılım, yara tespiti için YoloV4 (You Only Look Once) adlı derin öğrenme modelini kullanır. YoloV4, nesne tespiti ve sınıflandırma için etkili bir modeldir. Model, nesneleri tespit edip sınıflandırmak için görüntülerde dolaşır ve böylece bası yaralarını tanımlar.
 	**OpenCV (Open Source Computer Vision Library):** Görüntü işleme ve analizi için OpenCV kütüphanesi kullanılır. Yara tespiti için görüntüler üzerinde işlem yapar ve YoloV4 modeli ile entegre edilir.
 	**Qt ve PyQt5:** Kullanıcı arayüzü (UI) tasarımı ve hastaların bilgilerinin görüntülenmesi için PyQt5 kullanılır. Bu, kullanıcıların yazılımı etkileşimli bir şekilde kullanmalarını sağlar.
