@@ -1,4 +1,7 @@
 # DekubitusUlcersAssistant
+E-posta adresim: [ahmet@example.com](mailto:ahmet@example.com)
+
+
 **Bası Yarası Tespit ve Tedavi Asistanı Bilgisayar Uygulaması**
 
 **Giriş**  
