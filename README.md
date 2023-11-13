@@ -1,5 +1,5 @@
 # DekubitusUlcersAssistant
-E-posta adresim: [ahmetzincir.tech@icloud.com](mailto:ahmetzincir.tech@icloud.com)
+E-posta: [ahmetzincir.tech@icloud.com](mailto:ahmetzincir.tech@icloud.com)
 
 
 **Bası Yarası Tespit ve Tedavi Asistanı Bilgisayar Uygulaması**
