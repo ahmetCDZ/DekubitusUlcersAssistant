@@ -1,5 +1,5 @@
 # DekubitusUlcersAssistant
-Bası Yarası Tespit ve Tedavi Asistanı Bilgisayar Uygulaması 
+**Bası Yarası Tespit ve Tedavi Asistanı Bilgisayar Uygulaması**
 
 **Giriş**  
 	    Bası yaraları, özellikle yatağa bağımlı hastalarda sıkça görülen ciddi sağlık sorunlarıdır. Bu tür yaralar, yoğun bakım ünitelerinde, yaşlı bakım evlerinde ve evde bakım hizmetleri alan hastalarda meydana gelir. Bası ülseri genellikle kemik çıkıntıları üzerinde ya da tıbbi cihaz veya başka bir cihazla ilişkili olarak ortaya çıkan lokalize deri veya deri alt doku hasarıdır. Etkin bir risk tanılama ve bakımla bireyde gelişebilecek komplikasyonlar önlenir ve sağlık durumu daha da iyi hale getirilebilir. Hemşireler, bu hastaların bakımından sorumlu oldukları için bası yaralarının erken teşhisi ve etkili tedavisi büyük önem taşır. 
