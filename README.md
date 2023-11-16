@@ -57,7 +57,7 @@ Bası yarası tespiti için, transfer öğrenme kullanılır. Transfer öğrenme
 
 Yazılımın çalışma süreci aşağıdaki adımlardan oluşur:  
 	**Görüntü İşleme ve Yara Tespiti:** Kullanıcı, bir görüntüyü yazılıma yükler. Yazılım, YoloV4 modeli aracılığıyla görüntüyü işler ve bası yaralarını tespit eder ve uygulama üzerinde yüklenme tarihine göre kullanıcıya gösterir.    
-	**Yara Evresi Belirleme:** Tespit edilen yaralar, hangi evrede olduklarına göre sınıflandırılır. Bu sınıflandırma sonuçları yazılım tarafından kaydedilir.
+	**Yara Evresi Belirleme:** Tespit edilen yaralar, hangi evrede olduklarına göre sınıflandırılır. Bu sınıflandırma sonuçları yazılım tarafından kaydedilir.  
 	**Tedavi Önerileri:** Yara evresine göre hastaya uygun tedavi önerileri sunulur. Tedavi planları kullanıcıya görüntülenir.    
 	**Bilgi Kayıt ve Saklama:** Hastaların bilgileri ve tedavi sonuçları SQLite veritabanında saklanır. Bu, hastaların takip edilmesi ve verilere erişim sağlanması için önemlidir.    
 
